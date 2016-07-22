@@ -1,0 +1,13 @@
+vendors:
+- path: github.com/joho/godotenv
+  rev: 4ed13390c0acd2ff4e371e64d8b97c8954138243
+- path: github.com/kr/fs
+  rev: 2788f0dbd16903de03cb8186e5c7d97b69ad387b
+- path: github.com/pkg/errors
+  rev: cc5fbb72d9b1b5f664ff3c11ed7896ee23ad9276
+- path: github.com/pkg/sftp
+  rev: a71e8f580e3b622ebff585309160b1cc549ef4d2
+- path: github.com/urfave/cli
+  rev: 11c134509d89c2018675f369955218a180dc7428
+- path: golang.org/x/crypto
+  rev: 911fafb28f4ee7c7bd483539a6c96190bbbccc3f
